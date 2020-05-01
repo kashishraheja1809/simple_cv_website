@@ -105,7 +105,7 @@ li {
 }
 @keyframes moveSlideshow {
     0%    { left: 100%; }
-    100%  { left: -200%; }
+    100%  { left: -290%; }
 }
 
 .skill-list:hover {
